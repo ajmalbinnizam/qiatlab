@@ -934,8 +934,8 @@ ABOUT  css
     position: relative;
     /* background-image: -webkit-linear-gradient( -145deg, rgb(19, 84, 104) 0%, rgb(2, 195, 253) 100%);
     background-image: -webkit-linear-gradient( -145deg, rgb(19, 84, 104) 0%, rgb(2, 195, 253) 100%); */
-    padding: 5px;
-    margin-left: 20px;
+    padding: 0px;
+    margin-left: 40px;
     -webkit-transition: .3s ease-in-out;
     transition: .3s ease-in-out;
 }
@@ -951,7 +951,7 @@ ABOUT  css
 .about_module {
     background: #fff;
     color: #6b6b6b;
-    padding: 20px 25px;
+    padding: 20px 25px ;
 }
 
 .about_module h2 {
